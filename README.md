@@ -4,19 +4,21 @@ This widget wraps the [HTML to Attributed String Module](http://gitt.io/componen
 
 ## Get it [![gitTio](http://gitt.io/badge.png)](http://gitt.io/component/nl.fokkezb.html2as.widget)
 
-Install via [gitTio](http://gitt.io/component/nl.fokkezb.html2as.widget):
+* Install via [gitTio](http://gitt.io/component/nl.fokkezb.html2as.widget):
 
-	$ gittio install nl.fokkezb.html2as.widget
+		$ gittio install nl.fokkezb.html2as.widget
+	
+	giTio will automatically install the [HTML2AS module](http://gitt.io/component/nl.fokkezb.html2as) the widget depends on.
 
-Or download a [release](https://github.com/FokkeZB/nl.fokkezb.html2as.widget/releases), extract it to your app's `app/widgets/nl.fokkezb.html2as.widget` folder and add the dependency to your `config.json`:
+* Or download a [release](https://github.com/FokkeZB/nl.fokkezb.html2as.widget/releases), extract it to your app's `app/widgets/nl.fokkezb.html2as.widget` folder and add the dependency to your `config.json`:
 
-	{
-		..
-		"dependencies": {
-		    "nl.fokkezb.html2as.widget": "*"
-		    ..
-		  }
-	}
+		{
+			..
+			"dependencies": {
+			    "nl.fokkezb.html2as.widget": "*"
+			    ..
+			  }
+		}
 	
 ## Use it
 
