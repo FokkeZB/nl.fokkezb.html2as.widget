@@ -73,6 +73,10 @@ Apply properties to the label
 
 Set or get the HTML property (on iOS parsed to Attributed String).
 
+## Known issues
+
+See the *Known issues* paragraph of the [Using basic HTML in Labels on iOS like Android](http://www.tidev.io/2014/11/13/using-basic-html-in-labels-on-ios-like-android/) article on tiDev.
+
 ## License
 
 	The MIT License (MIT)
